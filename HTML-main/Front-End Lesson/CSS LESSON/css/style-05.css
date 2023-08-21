@@ -1,0 +1,20 @@
+*{
+
+    color: cornflowerblue;
+}
+p{
+}
+.high{
+    font-size:1.2rem ;
+    color:blue;
+}
+.center{
+    text-align: center;
+}
+#span1{
+    background-color: red;
+
+}
+h1.center{
+    background-color: chocolate;
+}
